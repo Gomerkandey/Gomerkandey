@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gomerkandey
-- 👀 I’m interested in softzware engineering
+- 👀 I’m interested in software engineering
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on all kind of service of developpement 
 - 📫 How to reach me ...
